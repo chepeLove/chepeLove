@@ -28,6 +28,6 @@
 
 <h3 align="center">My stats</h3>
 <div align="center">
-<img alt="TopLangs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chepeLove&theme=monokai"/>
-<img alt="TopCommit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chepeLove&theme=nord_dark"/>
+<img alt="TopLangs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chepeLove&theme=tokyonight"/>
+<img alt="TopCommit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chepeLove&theme=zenburn"/>
 </div>
