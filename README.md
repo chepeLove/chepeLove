@@ -30,3 +30,7 @@
 </div>
 
 ---
+
+<h3 align="center">My stats</h3>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chepeLove&theme=solarized_dark)
+
