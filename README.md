@@ -11,7 +11,7 @@
   </div>
   
 <h3 align="center">About me</h3>
-<h4 align="center">My toolkit encompasses HTML, CSS, and JavaScript, and I'm well-versed in popular frameworks such as React. I strive for perfection, constantly learning new technologies and staying abreast of the latest trends in web development.</h4>
+<h4 align="center">As a perpetual learner and enthusiast, I welcome each project as an opportunity to push boundaries, adapt to emerging technologies, and create delightful digital experiences. Let's code the future together, where innovation meets creativity, and user-centric design takes center stage.</h4>
 
 <h3 align="center">Languages and Tools </h3>
 
