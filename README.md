@@ -6,15 +6,8 @@
   <a href="https://t.me/chepe1ove"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 
----
-
 <h3 align="center">About me</h3>
-
----
-
 <h4 align="center">As a perpetual learner and enthusiast, I welcome each project as an opportunity to push boundaries, adapt to emerging technologies, and create delightful digital experiences. Let's code the future together, where innovation meets creativity, and user-centric design takes center stage.</h4>
-
----
 
 <h3 align="center">Languages and Tools </h3>
 
@@ -31,6 +24,8 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
+
+---
 
 <h3 align="center">My stats</h3>
 <div align="center">
