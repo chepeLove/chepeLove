@@ -30,15 +30,9 @@
 </div>
 
 ---
-<style>
-  .stats-container {
-    display: flex;
-    align-items: center;
-  }
-</style>
 
 <h3 align="center">My stats</h3>
-<div class="stats-container">
-<div><img alt="TopLangs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chepeLove&theme=github_dark"/></div>
-<div><img alt="TopCommit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chepeLove&theme=github_dark"/></div>
+<div>
+<img alt="TopLangs" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chepeLove&theme=github_dark"/>
+<img alt="TopCommit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chepeLove&theme=github_dark"/>
 </div>
