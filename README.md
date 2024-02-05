@@ -2,13 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a front-end developer</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/chepelove/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/chepe1ove">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  </div>
+  <a href="https://www.linkedin.com/in/chepelove/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://t.me/chepe1ove"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+</div>
   
 <h3 align="center">About me</h3>
 <h4 align="center">As a perpetual learner and enthusiast, I welcome each project as an opportunity to push boundaries, adapt to emerging technologies, and create delightful digital experiences. Let's code the future together, where innovation meets creativity, and user-centric design takes center stage.</h4>
