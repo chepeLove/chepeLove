@@ -5,7 +5,9 @@
   <a href="https://www.linkedin.com/in/chepelove/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://t.me/chepe1ove"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
-  
+
+---
+
 <h3 align="center">About me</h3>
 
 ---
@@ -29,8 +31,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="50" height="50"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
-
----
 
 <h3 align="center">My stats</h3>
 <div align="center">
