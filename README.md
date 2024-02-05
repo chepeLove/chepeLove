@@ -11,7 +11,7 @@
   </div>
   
 <h3 align="center">About me</h3>
-<h4 align="center">In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.</h4>
+<h4 align="center">My toolkit encompasses HTML, CSS, and JavaScript, and I'm well-versed in popular frameworks such as React. I strive for perfection, constantly learning new technologies and staying abreast of the latest trends in web development.</h4>
 
 <h3 align="center">Languages and Tools </h3>
 
