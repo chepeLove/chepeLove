@@ -7,11 +7,12 @@
   <a href="https://t.me/chepe1ove">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  
 ### About me: 
 In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.
 ---
 
-###Languages and Tools :
+### Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
