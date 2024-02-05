@@ -8,11 +8,11 @@
   
 <h3 align="center">About me</h3>
 
---
+---
 
 <h4 align="center">As a perpetual learner and enthusiast, I welcome each project as an opportunity to push boundaries, adapt to emerging technologies, and create delightful digital experiences. Let's code the future together, where innovation meets creativity, and user-centric design takes center stage.</h4>
 
---
+---
 
 <h3 align="center">Languages and Tools </h3>
 
