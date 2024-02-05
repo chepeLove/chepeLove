@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ilya</h1> 
+<h1 align="center">Hi there, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a front-end developer</h3>
 <div align="center">
@@ -12,7 +12,6 @@
   
 <h3 align="center">About me 
 In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.</h3>
----
 
 <h3 align="center">Languages and Tools </h3>
 
@@ -28,4 +27,3 @@ In the realm of code and creativity, I discover my true calling. A frontend deve
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
 </div>
 
----
