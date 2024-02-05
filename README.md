@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Ilya</a> 
+<h1 align="center">Hi there, I'm Ilya</h1> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Front-end developer</h3>
+<h3 align="center">I am a front-end developer</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/chepelove/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,11 +10,11 @@
   </a>
   </div>
   
-## About me: 
-In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.
+<h3 align="center">About me 
+In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.</h3>
 ---
 
-## Languages and Tools :
+<h3 align="center">Languages and Tools </h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
