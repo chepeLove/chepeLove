@@ -1,18 +1,20 @@
 <h1 align="center">Hi there, I'm Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Front-end developer</h3>
+<div align="center">
   <a href="https://www.linkedin.com/in/chepelove/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/chepe1ove">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  </div>
   
-### About me: 
+## About me: 
 In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.
 ---
 
-### Languages and Tools :
+## Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
