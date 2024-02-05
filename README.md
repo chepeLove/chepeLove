@@ -10,8 +10,8 @@
   </a>
   </div>
   
-<h3 align="center">About me 
-In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.</h3>
+<h3 align="center">About me</h3>
+<h4 align="center">In the realm of code and creativity, I discover my true calling. A frontend developer at heart, I craft virtual worlds and visual narratives, bringing web pages to life beneath my fingertips.</h4>
 
 <h3 align="center">Languages and Tools </h3>
 
