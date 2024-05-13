@@ -6,9 +6,8 @@
 </div>
 
 <h3 align="center">About me</h3>
-<h4 align="center">Working experience of +1,5 years.</h4>
-<h4 align="center">👨‍💻 IT-Incubator — 0.5 year product development (B2C)</h4>
-<h4 align="center">💰 Freelance — 1 year of development of medium and small projects for outsourcing (B2B, B2C)</h4>
+<h4 align="center">Work experience +3 years.</h4>
+
 
 <h3 align="center">Languages and Tools </h3>
 
