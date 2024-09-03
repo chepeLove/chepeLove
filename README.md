@@ -5,8 +5,6 @@
   <a href="https://t.me/chepe1ove"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
 </div>
 
-<h3 align="center">About me</h3>
-<h4 align="center">Work experience +3 years.</h4>
 
 
 <h3 align="center">Languages and Tools </h3>
